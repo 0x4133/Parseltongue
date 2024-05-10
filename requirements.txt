@@ -1,0 +1,4 @@
+SpeechRecognition==3.8.1
+pydub==0.25.1
+nltk==3.6.2
+scikit-learn==0.24.2
