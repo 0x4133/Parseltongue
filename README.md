@@ -16,7 +16,7 @@ This project consists of two Python scripts that work together to transcribe aud
 1. Clone the repository:
 
 ```
-git clone https://github.com/0x4133/parseltongue.git
+git clone https://github.com/0x4133/Parseltongue.git
 ```
 
 2. Install the required dependencies:
